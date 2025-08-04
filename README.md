@@ -83,4 +83,3 @@ Here are some ideas to get you started:
 ---
 
 <p align="center">⚡ Fuelled by passion, caffeine, and an endless curiosity for technology ⚡</p>
->>>>>>> 754678d (update README)
