@@ -1,33 +1,33 @@
 <!-- <<<<<<< HEAD
-## Halo Broo👋 -->
+## Halo Broo -->
 <!--
 
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+-  I’m currently working on ...
+-  I’m currently learning ...
+-  I’m looking to collaborate on ...
+-  I’m looking for help with ...
+-  Ask me about ...
+-  How to reach me: ...
+-  Pronouns: ...
+-  Fun fact: ...
 -->
 
 <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Welcome banner"/>
 
-# 👋 Hi, I'm Muhammad Dzaky Syamhaidar
+#  Hi, I'm Muhammad Dzaky Syamhaidar
 
-🎓 *Undergraduate Student at Gunadarma University*  
-💻 *Backend Developer • Clean Architecture Enthusiast • IoT + Security Explorer*  
-🧠 *Exploring Machine Learning and Cyber Security*
+ *Undergraduate Student at Gunadarma University*  
+ *Backend Developer • Clean Architecture Enthusiast • IoT + Security Explorer*  
+ *Exploring Machine Learning and Cyber Security*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dzakysyaam&color=blueviolet&style=flat-square)
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 <div align="center">
 
@@ -45,27 +45,27 @@ Here are some ideas to get you started:
 
 ---
 
-## 📌 My Project
+##  My Project
 
-### 🔧 SmartFan – IoT-Based Automation  
+###  SmartFan – IoT-Based Automation  
 **SmartFan** is an intelligent fan system built with:
 
-- 🔁 MQTT protocol for real-time control
-- 📱 Mobile integration for monitoring and automation
-- 🧩 Designed for modularity and IoT scalability
+-  MQTT protocol for real-time control
+-  Mobile integration for monitoring and automation
+-  Designed for modularity and IoT scalability
 
 ---
 
-## 🧠 What I'm Exploring
+##  What I'm Exploring
 
-- 🔐 Advanced authentication with OTP + JWT
-- 🧠 Learning ML concepts with Python and Go
-- 🕵️‍♂️ Diving into Cybersecurity fundamentals and ethical hacking
-- 🧩 Building reusable API services with clean architecture
+-  Advanced authentication with OTP + JWT
+-  Learning ML concepts with Python and Go
+-  Diving into Cybersecurity fundamentals and ethical hacking
+-  Building reusable API services with clean architecture
 
 ---
 
-## 📈 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=dzakysyaam&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
