@@ -74,11 +74,11 @@ Here are some ideas to get you started:
 
 ---
 
-## 📫 Let's Connect!
+##  Let's Connect!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-dzaky-syamhaidar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdzakysyam1204@gmail.com)
 
 ---
 
-<p align="center">⚡ Fuelled by passion, caffeine, and an endless curiosity for technology ⚡</p>
+<p align="center"> Fuelled by passion, caffeine, and an endless curiosity for technology </p>
