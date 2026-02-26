@@ -47,13 +47,63 @@ Here are some ideas to get you started:
 
 ##  My Project
 
-###  SmartFan – IoT-Based Automation  
+## My Projects
+
+### SmartFan – IoT-Based Automation
 **SmartFan** is an intelligent fan system built with:
 
--  MQTT protocol for real-time control
--  Mobile integration for monitoring and automation
--  Designed for modularity and IoT scalability
+- MQTT protocol for real-time control
+- Mobile integration for monitoring and automation
+- Designed for modularity and IoT scalability
 
+### Studi-Kasus-Overfitting
+- **Type**: Jupyter Notebook
+- **Description**: Study on overfitting in machine learning models with various techniques to prevent it.
+
+### AI-driven Stock Market Prediction with Q-Learning
+- **Type**: Jupyter Notebook
+- **Description**: Stock market prediction model using AI with Q-learning algorithm for better decision-making.
+
+### Introduction to Basic Concepts and Data Structure
+- **Type**: Jupyter Notebook
+- **Description**: Basics of programming and data structures.
+
+### Control Flow Sub Programs and Unit Testing
+- **Type**: Jupyter Notebook
+- **Description**: Learning control flow, subprograms, and the importance of unit testing.
+
+### Binary Classification
+- **Type**: Jupyter Notebook
+- **Description**: A binary classification problem solved with machine learning algorithms.
+
+### AyamLontar (Restaurant POS)
+- **Type**: JavaScript
+- **Description**: Point of Sale system for restaurants that handles real-time ordering and inventory.
+
+### Customer Churn Prediction
+- **Type**: Jupyter Notebook
+- **Description**: Predicting customer churn using Logistic Regression with class weighting and business impact simulation.
+
+### GameWeb
+- **Type**: JavaScript
+- **Description**: A simple game built using JavaScript.
+
+### Sistem Rekomendasi Menu Warmindo berbasis Cosine Similarity
+- **Type**: Jupyter Notebook
+- **Description**: A menu recommendation system for "Warmindo" based on cosine similarity.
+
+### Portfolio (Personal Portfolio)
+- **Type**: CSS
+- **Description**: My personal portfolio showcasing my work and skills.
+
+### Natural Language Processing
+- **Type**: Jupyter Notebook
+- **Description**: Basic NLP techniques for text classification, sentiment analysis, etc.
+
+### todo-list
+- **Type**: JavaScript
+- **Description**: Simple To-Do list app built with JavaScript.
+  
 ---
 
 ##  What I'm Exploring
@@ -68,7 +118,6 @@ Here are some ideas to get you started:
 ##  GitHub Stats
 
 ![GitHub Stats](https://img.shields.io/github/followers/dzakysyaam?style=social)
-![GitHub Repositories](https://img.shields.io/github/forks/dzakysyaam?style=social)
 
 ---
 
