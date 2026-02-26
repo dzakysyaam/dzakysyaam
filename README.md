@@ -67,9 +67,8 @@ Here are some ideas to get you started:
 
 ##  GitHub Stats
 
-<img src="https://github-readme-stats.vercel.app/api?username=dzakysyaam&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzakysyaam&layout=compact&theme=tokyonight" width="48%" />
-
+![GitHub Stats](https://img.shields.io/github/followers/dzakysyaam?style=social)
+![GitHub Repositories](https://img.shields.io/github/forks/dzakysyaam?style=social)
 ---
 
 ##  Let's Connect!
