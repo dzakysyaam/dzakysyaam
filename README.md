@@ -45,8 +45,6 @@ Here are some ideas to get you started:
 
 ---
 
-##  My Project
-
 ## My Projects
 
 ### SmartFan – IoT-Based Automation
@@ -55,10 +53,6 @@ Here are some ideas to get you started:
 - MQTT protocol for real-time control
 - Mobile integration for monitoring and automation
 - Designed for modularity and IoT scalability
-
-### Studi-Kasus-Overfitting
-- **Type**: Jupyter Notebook
-- **Description**: Study on overfitting in machine learning models with various techniques to prevent it.
 
 ### AI-driven Stock Market Prediction with Q-Learning
 - **Type**: Jupyter Notebook
@@ -91,10 +85,6 @@ Here are some ideas to get you started:
 ### Sistem Rekomendasi Menu Warmindo berbasis Cosine Similarity
 - **Type**: Jupyter Notebook
 - **Description**: A menu recommendation system for "Warmindo" based on cosine similarity.
-
-### Portfolio (Personal Portfolio)
-- **Type**: CSS
-- **Description**: My personal portfolio showcasing my work and skills.
 
 ### Natural Language Processing
 - **Type**: Jupyter Notebook
