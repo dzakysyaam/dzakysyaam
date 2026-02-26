@@ -67,16 +67,14 @@ Here are some ideas to get you started:
 
 ##  GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=dzakysyaam&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzakysyaam&layout=compact&theme=tokyonight" width="48%" />
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=dzakysyaam&show_icons=true&theme=tokyonight&count_private=true" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dzakysyaam&layout=compact&theme=tokyonight" width="48%" />
 
 ---
 
 ##  Let's Connect!
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-dzaky-syamhaidar/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammaddzakysyamhaidar/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdzakysyam1204@gmail.com)
 
 ---
