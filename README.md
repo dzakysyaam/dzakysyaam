@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 #  Hi, I'm Muhammad Dzaky Syamhaidar
 
  *Undergraduate Student at Gunadarma University*  
- *Backend Developer • Clean Architecture Enthusiast • Data Scientist*  
- *Exploring Machine Learning*
+ *Backend Developer • Data Scientist*  
+ *AI Learning*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=dzakysyaam&color=blueviolet&style=flat-square)
 
