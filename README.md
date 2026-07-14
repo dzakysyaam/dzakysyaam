@@ -1,23 +1,23 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=230&section=header&text=Muhammad%20Dzaky%20Syamhaidar&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20%7C%20Data%20%26%20AI%20Learner%20%7C%20Security%20Enthusiast&descAlignY=58&descSize=17" alt="Header Banner"/>
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="85%" alt="Coding animation"/>
 </p>
 
 <h1 align="center">Hi, I'm Muhammad Dzaky Syamhaidar</h1>
 
 <p align="center">
-  <b>Undergraduate Student at Gunadarma University</b>
+  <b>Data Science • AI Engineering • Software Engineering</b>
 </p>
 
 <p align="center">
-  <b>Backend Developer • Data & AI Enthusiast • Security Fundamentals Learner</b>
+  Undergraduate Student at <b>Gunadarma University</b>
 </p>
 
 <p align="center">
-  I enjoy building reliable backend systems, designing clean API services, working with databases, and exploring how AI and security can be applied to real-world products.
+  I am interested in building intelligent software systems, working with data, developing machine learning solutions, and creating reliable applications that solve real-world problems.
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&center=true&vCenter=true&width=850&color=2563EB&lines=Building+backend+systems+with+Go;Designing+clean+REST+API+services;Working+with+MySQL+and+JWT+authentication;Exploring+Data+Science%2C+AI%2C+and+Security;Turning+ideas+into+real+products" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2600&pause=900&center=true&vCenter=true&width=900&color=2563EB&lines=Exploring+Data+Science+and+Machine+Learning;Building+AI-powered+applications;Developing+clean+and+scalable+software;Working+with+Python%2C+Go%2C+MySQL%2C+and+APIs;Turning+data+and+ideas+into+real+products" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -28,17 +28,18 @@
 
 ## About Me
 
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="330" alt="Coding animation"/>
+<img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="330" alt="Developer animation"/>
 
-I am an undergraduate student at **Gunadarma University** with a strong interest in backend development, database design, API architecture, data science, applied AI, and cybersecurity fundamentals.
+I am an undergraduate student at **Gunadarma University** with a strong interest in **Data Science, AI Engineering, and Software Engineering**.
 
-My current learning path focuses on building practical and maintainable systems using **Go, MySQL, JWT authentication, REST API, and clean architecture**. I also enjoy learning machine learning concepts, backend security, and how to turn ideas into real applications.
+My current focus is learning how to build intelligent and reliable systems by combining software development, data processing, machine learning, API development, and database design. I enjoy exploring how data and AI can be used to support better decision-making and create practical digital products.
 
 ```txt
 Current Focus:
-- Backend API development with Go
-- REST API design and clean architecture
-- Authentication using JWT
+- Data Science fundamentals
+- Machine Learning and AI Engineering
+- Python for data and AI workflows
+- Backend API development
 - Database design with MySQL
-- Data Science and AI fundamentals
-- Cybersecurity basics and ethical hacking concepts
+- Software engineering best practices
+- Building real-world full-stack and AI-powered applications
