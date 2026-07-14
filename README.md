@@ -1,75 +1,36 @@
-<!-- <<<<<<< HEAD
-## Halo Broo -->
-<!--
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer banner"/>
 
+<h1 align="center">Hi, I'm Muhammad Dzaky Syamhaidar</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+  <b>Backend Developer • Data & AI Enthusiast • Undergraduate Student at Gunadarma University</b>
+</p>
 
--  I’m currently working on ...
--  I’m currently learning ...
--  I’m looking to collaborate on ...
--  I’m looking for help with ...
--  Ask me about ...
--  How to reach me: ...
--  Pronouns: ...
--  Fun fact: ...
--->
+<p align="center">
+  I enjoy building reliable backend systems, designing clean API services, exploring data-driven applications, and learning how AI can be applied to real-world products.
+</p>
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Welcome banner"/>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=2800&pause=900&center=true&vCenter=true&width=700&lines=Backend+Developer+with+Go+and+MySQL;Building+Clean+API+Services;Learning+Data+Science+and+AI;Exploring+Cybersecurity+Fundamentals" alt="Typing SVG" />
+</p>
 
-#  Hi, I'm Muhammad Dzaky Syamhaidar
-
- *Undergraduate Student at Gunadarma University* || *A Passionate Backend Developer*, *Data Scientist*, *AI Learning*
-
-![Profile Views](https://komarev.com/ghpvc/?username=dzakysyaam&color=blueviolet&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=dzakysyaam&color=2563eb&style=flat-square" alt="Profile views"/>
+</p>
 
 ---
 
-##  Tech Stack
+## About Me
 
-<div align="center">
+I am an undergraduate student at **Gunadarma University** with a strong interest in backend development, database design, API architecture, and applied AI.
 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Go](https://img.shields.io/badge/Golang-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![MQTT](https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=apachekafka&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+My current learning path focuses on building practical and scalable systems using **Go, MySQL, JWT authentication, REST API, and clean architecture**. I am also exploring data science, machine learning concepts, and cybersecurity fundamentals to strengthen my ability to build secure and intelligent applications.
 
-</div>
-
----
-
-## Find Me Online
-
-- **Portfolio & Projects:** [dzakysyaam](https://github.com/dzakysyaam)
-- **LinkedIn:** [Muhammad Dzaky Syamhaidar](https://linkedin.com/in/muhammaddzakysyamhaidar)
-- **Instagram:** [@dzakysyaam](https://instagram.com/dzakysyaam)
-- **Email:** mdzakysyam1204@gmail.com
-
-##  What I'm Exploring
-
--  Advanced authentication with OTP + JWT
--  Learning ML concepts with Python and Go
--  Diving into Cybersecurity fundamentals and ethical hacking
--  Building reusable API services with clean architecture
-
----
-
-##  GitHub Stats
-
-![GitHub Stats](https://img.shields.io/github/followers/dzakysyaam?style=social)
-
----
-
-##  Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammaddzakysyamhaidar/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mdzakysyam1204@gmail.com)
-
----
-
-<p align="center"> Fuelled by passion, caffeine, and an endless curiosity for technology </p>
+```txt
+Current Focus:
+- Backend API development with Go
+- Authentication using JWT and secure API flow
+- Database design with MySQL
+- Clean architecture and maintainable code
+- Data science and AI fundamentals
+- Cybersecurity basics and ethical hacking concepts
